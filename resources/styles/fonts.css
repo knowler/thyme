@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Noto Serif Display';
+  font-display: swap;
+  src: url('../fonts/noto-serif-display-variable-latin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Serif Display';
+  font-style: italic;
+  font-display: swap;
+  src: url('../fonts/noto-serif-display-italic-variable-latin.woff2') format('woff2');
+}
