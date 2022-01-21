@@ -36,4 +36,4 @@ module.exports = (app) =>
      *
      * This is your local dev server.
      */
-    .proxy('http://example.test');
+    .proxy('https://give.local.test');
