@@ -1258,10 +1258,10 @@
     "@roots/bud-wordpress-manifests" "5.1.0"
     tslib "2.3.1"
 
-"@roots/bud-prettier@^5.1.0":
-  version "5.1.0"
-  resolved "https://registry.npmjs.org/@roots/bud-prettier/-/bud-prettier-5.1.0.tgz"
-  integrity sha512-7WaweZWsEm0kuu/DkD7dB+hLKLtn2L/XtdOu2FnMndoccJC9HjY8A1cH2k5+lOt+8yHS8TzbcSEkw0Yonr4MPw==
+"@roots/bud-prettier@^5.2.0":
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@roots/bud-prettier/-/bud-prettier-5.2.0.tgz#d96024c7ff6a4d030d4c69b9de8e2acc4f8231e5"
+  integrity sha512-jZeis6AIe4SSCMmdBpKWYW+6EjsM/ziqMwmuLn1YRvTUYZImzIyBFuTGVQHfOPPhR9cpEqir/gT+POdj3L9KAw==
   dependencies:
     autobind-decorator "2.4.0"
     eslint-config-prettier "^8.3.0"

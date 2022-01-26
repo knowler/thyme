@@ -26,7 +26,7 @@
     "@roots/bud": "^5.1.0",
     "@roots/bud-eslint": "^5.1.0",
     "@roots/bud-postcss": "^5.1.0",
-    "@roots/bud-prettier": "^5.1.0",
+    "@roots/bud-prettier": "^5.2.0",
     "@roots/bud-stylelint": "^5.1.0",
     "@roots/bud-tailwindcss": "^5.1.0",
     "@roots/sage": "^5.1.0",
