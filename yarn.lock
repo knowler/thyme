@@ -1180,12 +1180,23 @@
     autobind-decorator "^2.4.0"
     tslib "^2.3.1"
 
-"@roots/bud-eslint@5.1.0", "@roots/bud-eslint@^5.1.0":
+"@roots/bud-eslint@5.1.0":
   version "5.1.0"
   resolved "https://registry.npmjs.org/@roots/bud-eslint/-/bud-eslint-5.1.0.tgz"
   integrity sha512-V1DbuKdVThKf2iSaagGKi0JrN10pOVURpkBXU9UIJmPrLkaszWgCoSQ9o04HZoeCn15hH9kFqiHfs08BOwZ7jw==
   dependencies:
     "@babel/eslint-parser" "^7.16.5"
+    eslint-plugin-import "^2.25.3"
+    eslint-webpack-plugin "^3.1.1"
+    tslib "^2.3.1"
+
+"@roots/bud-eslint@^5.2.0":
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@roots/bud-eslint/-/bud-eslint-5.2.0.tgz#6ebcb9917391be186b6c01bb08058afcce69030c"
+  integrity sha512-RMnrdk2oBECMSn4HbQIOv4NON+PooSNwxcgrmyDxiUhTQpgmrC9ZBWJOabUJ8cJnXOtdNUPGMOxvPPS5hStysg==
+  dependencies:
+    "@babel/eslint-parser" "^7.16.5"
+    eslint "8.6.0"
     eslint-plugin-import "^2.25.3"
     eslint-webpack-plugin "^3.1.1"
     tslib "^2.3.1"
