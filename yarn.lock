@@ -1300,10 +1300,10 @@
     webpack-dev-middleware "5.3.0"
     webpack-hot-middleware "^2.25.1"
 
-"@roots/bud-stylelint@^5.1.0":
-  version "5.1.0"
-  resolved "https://registry.npmjs.org/@roots/bud-stylelint/-/bud-stylelint-5.1.0.tgz"
-  integrity sha512-H3YzaSUkBitz2IFqgwHxDb0d50K7e8NSGpazn8bqMe7dO+oUBwL/msTyVBWmKrEyX1VC/Aw4/MlNsWPzdeSqhA==
+"@roots/bud-stylelint@^5.2.0":
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@roots/bud-stylelint/-/bud-stylelint-5.2.0.tgz#9f8a8be395f2cc7178ac7273dff465b32d5bbbd0"
+  integrity sha512-P8S0dPJ5lU8+UBL+XG3Q9aakMX3Gt4IbSW4CD9aEjRZY1NzsMGsqtWgx2Lh8Pua6eaP61yYXoUshKJhinLasEw==
   dependencies:
     autobind-decorator "^2.4.0"
     stylelint "^14.1.0"
