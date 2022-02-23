@@ -22,7 +22,7 @@
     "test": "npm run lint"
   },
   "devDependencies": {
-    "@roots/bud": "^5.2.0",
+    "@roots/bud": "^5.4.0",
     "@roots/bud-eslint": "^5.2.0",
     "@roots/bud-postcss": "^5.2.0",
     "@roots/bud-prettier": "^5.2.0",
